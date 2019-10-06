@@ -1,0 +1,2 @@
+java dwie javy
+zmiana tekstu
